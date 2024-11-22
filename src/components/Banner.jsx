@@ -1,3 +1,4 @@
+import React from "react";
 import Hero1200 from "../../assets/img/banner/hero-1200.png";
 import Hero838 from "../../assets/img/banner/hero-838.png";
 import Hero300 from "../../assets/img/banner/hero-300.png";
